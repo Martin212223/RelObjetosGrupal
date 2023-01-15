@@ -1,0 +1,56 @@
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\WindowsRelaciones.exe.config
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\WindowsRelaciones.exe
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\WindowsRelaciones.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\LibFactura.dll
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\LibFactura.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.Form1.resources
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.Properties.Resources.resources
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.GenerateResource.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.CopyComplete
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.exe
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.pdb
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\WindowsRelaciones.exe.config
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\WindowsRelaciones.exe
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\WindowsRelaciones.pdb
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\LibFactura.dll
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\LibFactura.pdb
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.AssemblyReference.cache
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.SuggestedBindingRedirects.cache
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.Form1.resources
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.Properties.Resources.resources
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.GenerateResource.cache
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.CopyComplete
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.exe
+D:\Usuario\Documents\Bootcamp\Programación Web NET Core\TPG-Relacion de objetos\Relaciones-Objetos-Grupal\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.pdb
+C:\Users\Alternativa\Desktop\Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\WindowsRelaciones.exe.config
+C:\Users\Alternativa\Desktop\Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\WindowsRelaciones.exe
+C:\Users\Alternativa\Desktop\Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\WindowsRelaciones.pdb
+C:\Users\Alternativa\Desktop\Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\LibFactura.dll
+C:\Users\Alternativa\Desktop\Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\LibFactura.pdb
+C:\Users\Alternativa\Desktop\Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.AssemblyReference.cache
+C:\Users\Alternativa\Desktop\Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alternativa\Desktop\Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.Form1.resources
+C:\Users\Alternativa\Desktop\Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.Properties.Resources.resources
+C:\Users\Alternativa\Desktop\Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.GenerateResource.cache
+C:\Users\Alternativa\Desktop\Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.CoreCompileInputs.cache
+C:\Users\Alternativa\Desktop\Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.CopyComplete
+C:\Users\Alternativa\Desktop\Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.exe
+C:\Users\Alternativa\Desktop\Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.pdb
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\8 - Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\WindowsRelaciones.exe.config
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\8 - Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\WindowsRelaciones.exe
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\8 - Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\WindowsRelaciones.pdb
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\8 - Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\LibFactura.dll
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\8 - Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\bin\Debug\LibFactura.pdb
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\8 - Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.AssemblyReference.cache
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\8 - Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\8 - Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.Form1.resources
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\8 - Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.Properties.Resources.resources
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\8 - Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.GenerateResource.cache
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\8 - Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.CoreCompileInputs.cache
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\8 - Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.csproj.CopyComplete
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\8 - Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.exe
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\8 - Relaciones-Objetos-Grupal-main\slnRelacionObjetosGrupal\WindowsRelaciones\obj\Debug\WindowsRelaciones.pdb

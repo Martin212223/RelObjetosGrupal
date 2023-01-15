@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibFactura.Entidad.Categoria">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidad\Categoria.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="LstProductos" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="LibFactura.Entidad.DetalleFactura">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAQAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Entidad\DetalleFactura.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Factura" />
+      <Property Name="Producto" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="LibFactura.Entidad.Factura">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAACAAACAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Entidad\Factura.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Empleado" />
+      <Property Name="Cliente" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="DetalleFacturas" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="LibFactura.Entidad.Lista" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidad\Lista.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibFactura.Entidad.Producto">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAgACQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidad\Producto.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Categoria" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="DetalleFacturas" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="LibFactura.Entidad.Usuario">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Entidad\Usuario.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Cliente" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="LibFactura.Entidades.Cliente">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAgAAAAA=</HashCode>
+      <FileName>Entidad\Cliente.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Usuario" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="LstFacturas" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="LibFactura.Entidades.Empleado">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Entidad\Empleado.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Facturas" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="LibFactura.Entidades.Persona" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAgAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidad\Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
